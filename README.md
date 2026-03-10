@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BavanthikaAS/Day-8/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BavanthikaAS/Day-8/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BavanthikaAS/Day-8/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/BavanthikaAS/Day-8/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -27,8 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BavanthikaAS/Day-8/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BavanthikaAS/Day-8/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BavanthikaAS/Day-8/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/BavanthikaAS/Day-8/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/BavanthikaAS/Day-8/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/BavanthikaAS/Day-8/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
